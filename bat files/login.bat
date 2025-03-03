@@ -1,0 +1,1 @@
+pytest -v -s --browser edge D:\credence\pytest_projects\lumo_magneto_pytest_project(23-02-25)\testcases\test_combined_login.py --alluredir="D:\credence\pytest_projects\lumo_magneto_pytest_project(23-02-25)\allure_report"
