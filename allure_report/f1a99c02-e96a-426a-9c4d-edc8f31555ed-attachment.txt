@@ -1,0 +1,49 @@
+[32mINFO    [0m Test_Login:test_combined_login.py:92 opening the browser
+[32mINFO    [0m Test_Login:test_combined_login.py:95 count the number of rows in the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:100 get email from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:102 get password from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:104 get expected result from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:106 click on signin
+[32mINFO    [0m Test_Login:test_combined_login.py:108 enter email
+[32mINFO    [0m Test_Login:test_combined_login.py:110 enter password
+[32mINFO    [0m Test_Login:test_combined_login.py:112 click on sign in button
+[32mINFO    [0m Test_Login:test_combined_login.py:116 take a screenshot of successful login
+[32mINFO    [0m Test_Login:test_combined_login.py:118 write correct in actual result column of the excel sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:121 write pass in status column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:123 append the status list with pass
+[32mINFO    [0m Test_Login:test_combined_login.py:126 click on signout
+[32mINFO    [0m Test_Login:test_combined_login.py:100 get email from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:102 get password from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:104 get expected result from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:106 click on signin
+[32mINFO    [0m Test_Login:test_combined_login.py:108 enter email
+[32mINFO    [0m Test_Login:test_combined_login.py:110 enter password
+[32mINFO    [0m Test_Login:test_combined_login.py:112 click on sign in button
+[32mINFO    [0m Test_Login:test_combined_login.py:138 take a screenshot of unsuccessful login
+[32mINFO    [0m Test_Login:test_combined_login.py:140 write incorrect in the actual result column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:143 write pass in the status column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:145 append the status list with pass
+[32mINFO    [0m Test_Login:test_combined_login.py:100 get email from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:102 get password from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:104 get expected result from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:106 click on signin
+[32mINFO    [0m Test_Login:test_combined_login.py:108 enter email
+[32mINFO    [0m Test_Login:test_combined_login.py:110 enter password
+[32mINFO    [0m Test_Login:test_combined_login.py:112 click on sign in button
+[32mINFO    [0m Test_Login:test_combined_login.py:138 take a screenshot of unsuccessful login
+[32mINFO    [0m Test_Login:test_combined_login.py:140 write incorrect in the actual result column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:143 write pass in the status column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:145 append the status list with pass
+[32mINFO    [0m Test_Login:test_combined_login.py:100 get email from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:102 get password from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:104 get expected result from the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:106 click on signin
+[32mINFO    [0m Test_Login:test_combined_login.py:108 enter email
+[32mINFO    [0m Test_Login:test_combined_login.py:110 enter password
+[32mINFO    [0m Test_Login:test_combined_login.py:112 click on sign in button
+[32mINFO    [0m Test_Login:test_combined_login.py:138 take a screenshot of unsuccessful login
+[32mINFO    [0m Test_Login:test_combined_login.py:140 write incorrect in the actual result column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:143 write pass in the status column of the sheet
+[32mINFO    [0m Test_Login:test_combined_login.py:145 append the status list with pass
+[32mINFO    [0m Test_Login:test_combined_login.py:152 print status list
+[32mINFO    [0m Test_Login:test_combined_login.py:154 complete the test with assert true

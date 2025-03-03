@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_Login:test_combined_login.py:25 opening the browser
+[32mINFO    [0m Test_Login:test_combined_login.py:28 click on sign in
+[32mINFO    [0m Test_Login:test_combined_login.py:30 enter email id
+[32mINFO    [0m Test_Login:test_combined_login.py:32 enter password
+[32mINFO    [0m Test_Login:test_combined_login.py:34 click on sign in button
+[32mINFO    [0m Test_Login:test_combined_login.py:40 take a screenshot for login success
+[32mINFO    [0m Test_Login:test_combined_login.py:43 click on signout
+[32mINFO    [0m Test_Login:test_combined_login.py:51 test case is completed
